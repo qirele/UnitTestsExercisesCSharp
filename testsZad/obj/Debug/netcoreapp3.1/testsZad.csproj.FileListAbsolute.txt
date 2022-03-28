@@ -1,0 +1,27 @@
+C:\Users\s219uczen\source\repos\testsZad\testsZad\bin\Debug\netcoreapp3.1\testsZad.exe
+C:\Users\s219uczen\source\repos\testsZad\testsZad\bin\Debug\netcoreapp3.1\testsZad.deps.json
+C:\Users\s219uczen\source\repos\testsZad\testsZad\bin\Debug\netcoreapp3.1\testsZad.runtimeconfig.json
+C:\Users\s219uczen\source\repos\testsZad\testsZad\bin\Debug\netcoreapp3.1\testsZad.runtimeconfig.dev.json
+C:\Users\s219uczen\source\repos\testsZad\testsZad\bin\Debug\netcoreapp3.1\testsZad.dll
+C:\Users\s219uczen\source\repos\testsZad\testsZad\bin\Debug\netcoreapp3.1\testsZad.pdb
+C:\Users\s219uczen\source\repos\testsZad\testsZad\obj\Debug\netcoreapp3.1\testsZad.csproj.AssemblyReference.cache
+C:\Users\s219uczen\source\repos\testsZad\testsZad\obj\Debug\netcoreapp3.1\testsZad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s219uczen\source\repos\testsZad\testsZad\obj\Debug\netcoreapp3.1\testsZad.AssemblyInfoInputs.cache
+C:\Users\s219uczen\source\repos\testsZad\testsZad\obj\Debug\netcoreapp3.1\testsZad.AssemblyInfo.cs
+C:\Users\s219uczen\source\repos\testsZad\testsZad\obj\Debug\netcoreapp3.1\testsZad.csproj.CoreCompileInputs.cache
+C:\Users\s219uczen\source\repos\testsZad\testsZad\obj\Debug\netcoreapp3.1\testsZad.dll
+C:\Users\s219uczen\source\repos\testsZad\testsZad\obj\Debug\netcoreapp3.1\testsZad.pdb
+C:\Users\s219uczen\source\repos\testsZad\testsZad\obj\Debug\netcoreapp3.1\testsZad.genruntimeconfig.cache
+D:\Development\C# jezyk\testsZad\testsZad\bin\Debug\netcoreapp3.1\testsZad.exe
+D:\Development\C# jezyk\testsZad\testsZad\bin\Debug\netcoreapp3.1\testsZad.deps.json
+D:\Development\C# jezyk\testsZad\testsZad\bin\Debug\netcoreapp3.1\testsZad.runtimeconfig.json
+D:\Development\C# jezyk\testsZad\testsZad\bin\Debug\netcoreapp3.1\testsZad.runtimeconfig.dev.json
+D:\Development\C# jezyk\testsZad\testsZad\bin\Debug\netcoreapp3.1\testsZad.dll
+D:\Development\C# jezyk\testsZad\testsZad\bin\Debug\netcoreapp3.1\testsZad.pdb
+D:\Development\C# jezyk\testsZad\testsZad\obj\Debug\netcoreapp3.1\testsZad.csprojAssemblyReference.cache
+D:\Development\C# jezyk\testsZad\testsZad\obj\Debug\netcoreapp3.1\testsZad.AssemblyInfoInputs.cache
+D:\Development\C# jezyk\testsZad\testsZad\obj\Debug\netcoreapp3.1\testsZad.AssemblyInfo.cs
+D:\Development\C# jezyk\testsZad\testsZad\obj\Debug\netcoreapp3.1\testsZad.csproj.CoreCompileInputs.cache
+D:\Development\C# jezyk\testsZad\testsZad\obj\Debug\netcoreapp3.1\testsZad.dll
+D:\Development\C# jezyk\testsZad\testsZad\obj\Debug\netcoreapp3.1\testsZad.pdb
+D:\Development\C# jezyk\testsZad\testsZad\obj\Debug\netcoreapp3.1\testsZad.genruntimeconfig.cache
